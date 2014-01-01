@@ -1,4 +1,4 @@
-connect-fluentd-logger
+connect-fluent-logger
 ====
 
 A Connect middleware to send access log to fluentd.
