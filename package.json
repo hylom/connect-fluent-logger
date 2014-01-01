@@ -1,22 +1,21 @@
 {
   "name": "connect-fluent-logger",
   "version": "0.1.0",
-  "description": "A Connect middleware to send access log to fluentd"
-  "keywords": {
+  "description": "A Connect middleware to send access log to fluentd",
+  "keywords": [
     "web",
     "connect",
     "middleware",
     "fluentd",
     "logger"
-  },
+  ],
   "repository": "https://github.com/hylom/connect-fluent-logger",
   "author": "Hiromichi Matsushima <hylom@hylom.net> (http://hylom.net/)",
   "private": false,
   "dependencies": {
     "fluent-logger": "0.2.5"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "licenses": [
     {
       "type": "MIT",
